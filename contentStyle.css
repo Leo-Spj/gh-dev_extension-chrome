@@ -1,0 +1,34 @@
+.dev-leoSpj {
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 14px;
+    cursor: pointer;
+    appearance: none;
+    user-select: none;
+    text-align: center;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    height: 32px;
+    min-width: max-content;
+    border-radius: 6px;
+    border-width: 1px;
+    border-style: solid;
+    border-image: initial;
+    text-decoration: none;
+    border-color: #46489b;
+    background-color: #383b98;
+    padding: 0px 12px;
+    gap: 8px;
+}
+a.dev-leoSpj {
+    text-decoration: none !important;
+}
+
+.dev-leoSpj:hover {
+    /* color: #fff; */
+    background-color: #46489b;
+    border-color: #46489b;
+}
