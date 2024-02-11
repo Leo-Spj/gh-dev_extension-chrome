@@ -18,8 +18,9 @@
     border-style: solid;
     border-image: initial;
     text-decoration: none;
+    color: #ffffff !important;
     border-color: #46489b;
-    background-color: #46489b;
+    background-color: #383b98;
     padding: 0px 12px;
     gap: 8px;
 }
@@ -28,7 +29,7 @@ a.dev-leoSpj {
 }
 
 .dev-leoSpj:hover {
-    /* color: #fff; */
-    background-color: #383b98;
+    color: #ffffff !important;
+    background-color: #46489b;
     border-color: #46489b;
 }
